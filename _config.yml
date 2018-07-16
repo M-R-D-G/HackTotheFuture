@@ -1,0 +1,5 @@
+original_repo: https://github.com/as8297/HackToTheFuture
+
+sass:
+    sass_dir: assets/_sass
+    style: compressed
