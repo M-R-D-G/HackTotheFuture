@@ -1,0 +1,30 @@
+- name: Sex Time
+  day:  1
+  time: "1:00 am"
+
+- name: Sex Time
+  day:  1
+  time: "2:00 am"
+
+- name: Sex Time
+  day:  1
+  time: "3:00 am"
+
+- name: Sex Time
+  day:  1
+  time: "4:00 am"
+
+- name: Sex Time
+  day:  2
+  time: "1:00 am"
+
+- name: Sex Time
+  day:  2
+  time: "2:00 pm"
+- name: Sex Time
+  day:  2
+  time: "3:00 am"
+
+- name: Sex Time
+  day:  2
+  time: "4:00 am"

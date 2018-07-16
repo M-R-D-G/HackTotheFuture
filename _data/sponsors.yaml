@@ -1,0 +1,19 @@
+- name:
+  tier: gold
+  image-url: /assets/images/sponsor_logo.jpg
+  url:
+
+- name:
+  tier: bronze
+  image-url: /assets/images/sponsor_logo.jpg
+  url:
+
+- name:
+  tier: powered
+  image-url: /assets/images/sponsor_logo.jpg
+  url:
+
+- name:
+  tier: silver
+  image-url: /assets/images/sponsor_logo.jpg
+  url:
