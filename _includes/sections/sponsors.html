@@ -16,9 +16,9 @@
             <ul class="sponsors powered">
                 {% for sponsor in powered %}
                 <li>
-                    <a href="{{sponsor.url}}" target="_blank">
+                   
                         <img src="{{sponsor.image-url}}" alt="{{sponsor.name}} logo">
-                    </a>
+                    
                 </li>
                 {%endfor%}
             </ul>
@@ -31,9 +31,9 @@
             <ul class="sponsors diamond">
                 {% for sponsor in diamond %}
                 <li>
-                    <a href="{{sponsor.url}}" target="_blank">
+             
                         <img src="{{sponsor.image-url}}" alt="{{sponsor.name}} logo">
-                    </a>
+                 
                 </li>
                 {%endfor%}
             </ul>
@@ -46,9 +46,9 @@
             <ul class="sponsors gold">
                 {% for sponsor in gold %}
                 <li>
-                    <a href="{{sponsor.url}}" target="_blank">
+                  
                         <img src="{{sponsor.image-url}}" alt="{{sponsor.name}} logo">
-                    </a>
+                 
                 </li>
                 {%endfor%}
             </ul>
@@ -61,9 +61,9 @@
             <ul class="sponsors silver">
                 {% for sponsor in silver%}
                 <li>
-                    <a href="{{sponsor.url}}" target="_blank">
+                   
                         <img src="{{sponsor.image-url}}" alt="{{sponsor.name}} logo">
-                    </a>
+                  
                 </li>
                 {%endfor%}
             </ul>
@@ -76,9 +76,9 @@
             <ul class="sponsors bronze">
                 {% for sponsor in bronze | where:"tier","bronze" %}
                 <li>
-                    <a href="{{sponsor.url}}" target="_blank">
+                   
                         <img src="{{sponsor.image-url}}" alt="{{sponsor.name}} logo">
-                    </a>
+                  
                 </li>
                 {%endfor%}
             </ul>
@@ -91,9 +91,9 @@
             <ul class="sponsors startup">
                 {% for sponsor in startup | where:"tier","startup" %}
                 <li>
-                    <a href="{{sponsor.url}}" target="_blank">
+                   
                         <img src="{{sponsor.image-url}}" alt="{{sponsor.name}} logo">
-                    </a>
+
                 </li>
                 {%endfor%}
             </ul>
