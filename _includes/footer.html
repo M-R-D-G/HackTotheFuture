@@ -2,21 +2,6 @@
 
     <div class="container">
         <div class="row">
-
-            <div class="col-sm-6">
-                <ul class="list-inline">
-                    {% for link in site.data.footer_links %}
-                    {%if link.line_break%}<br/>{%endif%}
-                    <li>{%if link.url%}
-                        <a class="text-imp" target="_blank" href="{{ link.url }}">
-                            {%endif%}
-                            {{ link.name|upcase }}{%if link.url%}</a>{%endif%}
-                    </li>
-
-                    {%endfor%}
-                </ul>
-            </div>
-
             <div class="social-icons col-sm-6 text-right text-center-xs" >
                 <a class="btns" target="_blank" href="#">
                     <i aria-hidden="true" class="fa fa-instagram fa-lg"></i>
