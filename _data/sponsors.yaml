@@ -5,7 +5,7 @@
 
 - name:
   tier: bronze
-  image-url: /assets/images/sponsor_logo.jpg
+  image-url:  HackTotheFuture/assets/images/sponsor_logo.jpg 
   url:
 
 - name:
