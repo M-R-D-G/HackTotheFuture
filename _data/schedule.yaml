@@ -25,7 +25,7 @@
 - name: Dinner Served
   day:  1
   time: "6:00 pm"
-
+  
 - name: Desserts
   day:  1
   time: "11:00 pm"
@@ -37,15 +37,17 @@
 - name: Hacking Ends
   day:  2
   time: "12:00 am"
-
+  
 - name: Lunch
   day:  2
   time: "12:00 pm"
-
+  
 - name: Project Expo / Judging
   day:  2
   time: "12:30 pm"
 
 - name: Closing Ceremonies
   day:  2
-  time: "3:00 pm"
+  time: "5:00 pm"
+
+  
