@@ -1,30 +1,51 @@
-- name: Sex Time
+- name: Arrival and Check-In
   day:  1
-  time: "1:00 am"
+  time: "8:00 am"
 
-- name: Sex Time
+- name: Opening Ceremonies
   day:  1
-  time: "2:00 am"
+  time: "10:00 am"
 
-- name: Sex Time
+- name: Team Formation
   day:  1
-  time: "3:00 am"
+  time: "11:00 am"
 
-- name: Sex Time
+- name: Career Fair
   day:  1
-  time: "4:00 am"
+  time: "11:00 am"
 
-- name: Sex Time
-  day:  2
-  time: "1:00 am"
+- name: Hacking Begins!
+  day:  1
+  time: "12:00 am"
 
-- name: Sex Time
-  day:  2
-  time: "2:00 pm"
-- name: Sex Time
-  day:  2
-  time: "3:00 am"
+- name: Lunch Served
+  day:  1
+  time: "12:00 pm"
 
-- name: Sex Time
+- name: Dinner Served
+  day:  1
+  time: "6:00 pm"
+  
+- name: Desserts
+  day:  1
+  time: "11:00 pm"
+
+- name: Breakfast
   day:  2
-  time: "4:00 am"
+  time: "7:30 am"
+
+- name: Hacking Ends
+  day:  2
+  time: "12:00 am"
+  
+- name: Lunch
+  day:  2
+  time: "12:00 pm"
+  
+- name: Project Expo / Judging
+  day:  2
+  time: "12:30 pm"
+
+- name: Closing Ceremonies
+  day:  2
+  time: "5:00 pm"
